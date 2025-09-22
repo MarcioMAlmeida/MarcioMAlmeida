@@ -32,7 +32,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 <p align="left">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
   </a>
   <br><br>
   <strong>Mobile:</strong><br>
@@ -47,7 +47,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <br><br>
   <strong>Ferramentas e Outros:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,idea,figma" />
   </a>
 </p>
 
